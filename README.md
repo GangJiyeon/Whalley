@@ -1,6 +1,6 @@
 
 
-# Whalley
+# Whalley 🐳
 
 > **A Work & Holiday community platform for global workers and travelers.**
 > Built with **FastAPI (Python)** and **Next.js (React/TypeScript)**.
